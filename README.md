@@ -21,6 +21,8 @@
 | ChatGPT | https://chatgpt.com/ |
 | Gemini | https://gemini.google.com/ |
 | Perplexity | https://www.perplexity.ai/ |
+|deepseek|https://www.deepseek.com/en/|
+|kimi|https://www.kimi.ai/en|
 
 #### AI Coding & Development
 | Name | Link |
